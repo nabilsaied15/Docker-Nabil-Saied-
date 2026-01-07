@@ -1,7 +1,6 @@
 # Documentation Docker - Application Sportive Basicfit2
 ## Installation et Démarrage
 ### 1. Cloner le projet
-
 git clone https://github.com/nabilsaied15/Docker-Nabil-Saied-.git
 cd tp-backend
 
@@ -19,11 +18,6 @@ Copy-Item .env.example .env
 # Construire et démarrer tous les services
 docker-compose up --build
 
-# OU en mode détaché (arrière-plan)
-docker-compose up -d --build
-
-
-**Première fois** : Le build peut prendre 2-5 minutes. Les bases de données seront automatiquement initialisées.
 
 ### 4. Vérifier que tout fonctionne
 # Voir l'état des conteneurs

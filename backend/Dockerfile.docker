@@ -1,11 +1,9 @@
-# Utiliser l'image Node.js 20 Alpine (légère et sécurisée)
 FROM node:20-alpine
 
 # Définir le répertoire de travail
 WORKDIR /app
 
 # Copier les fichiers package.json et package-lock.json
-# (copier d'abord pour optimiser le cache des layers Docker)
 COPY package*.json ./
 
 # Installer les dépendances de production

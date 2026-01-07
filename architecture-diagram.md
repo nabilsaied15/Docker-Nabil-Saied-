@@ -1,4 +1,4 @@
-# 🏗️ Schéma d'Architecture - Application Sportive Basicfit2
+# Schéma d'Architecture - Application Sportive Basicfit2
 
 ## Vue d'ensemble
 
