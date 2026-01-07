@@ -17,7 +17,6 @@ Une documentation détaillée est disponible dans le fichier [DOCKER_README.md](
 ### Accès aux services
 
 **Frontend** :  http://localhost:5173 
-**Backend API** :  http://localhost:3000/api 
 **Swagger Docs** :  http://localhost:3000/api-docs 
 
 ##  Architecture
