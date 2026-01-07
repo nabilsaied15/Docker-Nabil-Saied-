@@ -4,6 +4,7 @@
 
 Le projet est composé de 4 conteneurs Docker interconnectés via un réseau privé. L'architecture suit le modèle micro-services simplifié.
 
+## Diagramme des Flux (Mermaid)
 
 
 ## Description des Composants
